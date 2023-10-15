@@ -1,2 +1,8 @@
 # martianais.github.io
-martianais.github.io/portfolio
+# Information Systems 
+### Education 
+Specialized boarding school by N.Nurmakov 
+### Projects  
+- FLL 
+- Technovation girl 
+
